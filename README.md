@@ -19,6 +19,6 @@ The site has no build step and can be deployed directly to GitHub Pages, Netlify
 ## Content to confirm before publishing
 
 - Confirm the “Open to work” statement is current.
-- Confirm Victoria is comfortable using her Medium profile portrait.
+- Confirm Victoria approves the AI-generated monochrome headshot crop before publishing it broadly.
 - Add measurable outcomes to the funnel case study when available.
 - Consider adding a downloadable résumé.
